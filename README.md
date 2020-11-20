@@ -7,10 +7,6 @@
 [![python](https://img.shields.io/badge/Made%20with-Python-blue)](https://www.python.org/)
 [![Version](https://img.shields.io/badge/Version-v0.3.2-blue)](https://github.com/Anghille/imdb_scraping#versioning)
 
-## Disclaimer
-
-This scraper is provided as a public service because IMDB doesn't have an API. The website provide some Data (see link below), but not as much as what can be gathered via webscraping. **IMDB prohibit scraping**. The developer do not  and make no representation that your account won't be banned if you use this program. Furthermore, should the developer be contacted by IMDB with a request to remove this repo, he will do so immediately. The project and the obtained dataset is intended only for educational purpose. It is completely open source and has no value intentions to commercialise complete or any part of the same. The developer is on no part the owner of any resources used and does not claim to hold the permissions to use the project.
-
 If you prefer to access their official database, you can do so by following this link : [IMDB](https://www.imdb.com/interfaces/)
 
 This tool is used as a training webscraping project and ML project.
