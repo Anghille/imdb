@@ -1,11 +1,11 @@
 # IMDB scraper
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![GitHub watchers](https://img.shields.io/badge/Watchers-1-blue)](https://github.com/Anghille/imdb_scraping/watchers)
-[![Pull-Requests Welcome](https://img.shields.io/badge/Pull%20Request-Welcome-blue)](https://github.com/Anghille/imdb_scraping/pulls)
+[![GitHub watchers](https://img.shields.io/badge/Watchers-1-blue)](https://github.com/Anghille/imdb/watchers)
+[![Pull-Requests Welcome](https://img.shields.io/badge/Pull%20Request-Welcome-blue)](https://github.com/Anghille/imdb/pulls)
 
 [![python](https://img.shields.io/badge/Made%20with-Python-blue)](https://www.python.org/)
-[![Version](https://img.shields.io/badge/Version-v0.3.2-blue)](https://github.com/Anghille/imdb_scraping#versioning)
+[![Version](https://img.shields.io/badge/Version-v0.3.2-blue)](https://github.com/Anghille/imdb#versioning)
 
 If you prefer to access their official database, you can do so by following this link : [IMDB](https://www.imdb.com/interfaces/)
 
