@@ -47,7 +47,12 @@ $ cd imdb_scraping/
 ```
 (imdb_scraping) $ pipenv install
 ```
-
+4. (Optionnal) Launch the scraper script to reset database (Take hours).
+```
+(imdb_scraping) $ python webscraping_imdb_v0.3.2.py
+```  
+ 5. Open Jupyter  
+   
 ## To Do
 
 * Add metascore given to almost every (but not all) movies (Done v0.2.1)
