@@ -1,4 +1,4 @@
-# IMDB Project
+# IMDB Project (WIP)
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![GitHub watchers](https://img.shields.io/badge/Watchers-1-blue)](https://github.com/Anghille/imdb/watchers)
@@ -57,6 +57,7 @@ $ cd imdb_scraping/
 
 * Add metascore given to almost every (but not all) movies (Done v0.2.1)
 * multithread the scrapping to fasten the process (Done v0.2.0)
+* Optimize the LSTM neural network and test it against GRU neural network for text classification (wip)
 
 ## Versioning
 ### v.0.3.2
