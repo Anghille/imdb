@@ -1,4 +1,4 @@
-# IMDB scraper
+# IMDB Project
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![GitHub watchers](https://img.shields.io/badge/Watchers-1-blue)](https://github.com/Anghille/imdb/watchers)
@@ -14,7 +14,7 @@ This tool is used as a training webscraping project and ML project.
 
 ## Introduction
 
-This tool is used to scrap the www.imdb.com website using requests, [BeautifoulSoup](https://www.crummy.com/software/BeautifulSoup/) and Pandas.
+The goal of this project is to scrap the www.imdb.com website using requests, [BeautifoulSoup](https://www.crummy.com/software/BeautifulSoup/) and Pandas, and then analyze the resulting dataframe with various machine-learning methods (KNN, LSTM neural network..)
 
 The database contains:
 * **Movie Name** *(str)*: the name of the movie/Serie
@@ -57,8 +57,6 @@ $ cd imdb_scraping/
 
 * Add metascore given to almost every (but not all) movies (Done v0.2.1)
 * multithread the scrapping to fasten the process (Done v0.2.0)
-* Change scraper method (from BeautifulSoup to Scrapy)(work in progress)
-  * add pipeline to mongoDB localy
 
 ## Versioning
 ### v.0.3.2
