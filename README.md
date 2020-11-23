@@ -14,7 +14,7 @@ This tool is used as a training webscraping project and ML project.
 
 ## Introduction
 
-This tool is used to scrap the www.imdb.com website using requests, [BeautifoulSoup](https://www.crummy.com/software/BeautifulSoup/)/[Scrapy](https://github.com/scrapy/scrapy) and Pandas.
+This tool is used to scrap the www.imdb.com website using requests, [BeautifoulSoup](https://www.crummy.com/software/BeautifulSoup/) and Pandas.
 
 The database contains:
 * **Movie Name** *(str)*: the name of the movie/Serie
