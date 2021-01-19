@@ -23,7 +23,7 @@ The database contains:
 * **Serie Date** *(date)*: The date when the serie season came out (if any)  
 * **Movie type** *(str)*: type of the movie (action,drama, sci-fi...)
 * **Number of votes** *(int)*: number of people who voted for the metascore
-* **Movie Revenue in millions of $** *(int)*: revenue (box-office) the movie made in million-$
+* **Movie Revenue in millions of `$`** *(int)*: revenue (box-office) the movie made in million-$
 * **Score** *(float)*: the mean-score attributed to the movie from 1 to 10 by the journalists
 * **Metascore** *(int)*: the mean-score attributed to the movie/serie from 1 to 100 by the viewers
 * **Time Duration** *(int)*: the duration of the movie in minutes
