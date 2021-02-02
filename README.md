@@ -1,4 +1,4 @@
-# IMDB Project (WIP)
+# LSTM Classification and IMDB Dataset
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![GitHub watchers](https://img.shields.io/badge/Watchers-1-blue)](https://github.com/Anghille/imdb/watchers)
