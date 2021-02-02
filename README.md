@@ -14,7 +14,7 @@ This tool is used as a training webscraping project and ML project.
 
 ## Introduction
 
-The goal of this project is to scrap the www.imdb.com website using requests, [BeautifoulSoup](https://www.crummy.com/software/BeautifulSoup/) and Pandas, and then analyze the resulting dataframe with various machine-learning methods (KNN, LSTM neural network..)
+The goal of this project is to scrap the www.imdb.com website using requests, [BeautifoulSoup](https://www.crummy.com/software/BeautifulSoup/) and Pandas, and then analyze the resulting dataframe with an LSTM network for text classification. 
 
 The database contains:
 * **Movie Name** *(str)*: the name of the movie/Serie
